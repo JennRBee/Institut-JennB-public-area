@@ -1,1 +1,30 @@
+{
+  "equipements": [
+    {
+      "nom": "Four à convection",
+      "quantite": 2,
+      "etat": "Disponible"
+    },
+    {
+      "nom": "Réfrigérateur",
+      "quantite": 1,
+      "etat": "Disponible"
+    },
+    {
+      "nom": "Mixeur",
+      "quantite": 3,
+      "etat": "En cours d'utilisation"
+    },
+    {
+      "nom": "Plaque de cuisson",
+      "quantite": 4,
+      "etat": "Disponible"
+    },
+    {
+      "nom": "Robot culinaire",
+      "quantite": 2,
+      "etat": "Disponible"
+    }
+  ]
+}
 
